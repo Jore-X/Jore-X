@@ -9,17 +9,6 @@ on:
   push:
     branches:
     - main
-name: Generate languages card
-
-on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-
-  workflow_dispatch:
-
-  push:
-    branches:
-    - main
 
 jobs:
   generate:
