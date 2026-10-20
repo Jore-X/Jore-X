@@ -24,10 +24,9 @@
 
 ###
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/Jore-X/Jore-X/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true" height="150" alt="languages graph"  />
-  <img src="https://raw.githubusercontent.com/Jore-X/Jore-X/stats-output/stats.svg?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=pt-br&hide_border=true" height="150" alt="stats graph"  />
-</div>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Jore-X&layout=compact&hide_title=true&langs_count=4&theme=chartreuse-dark)](https://github-stats-extended.vercel.app/api/top-langs?username=Jore-X&layout=compact&hide_title=true&langs_count=4&theme=chartreuse-dark)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Jore-X&custom_title=Meu%20Progresso&show_icons=true&include_all_commits=true&theme=chartreuse-dark)](https://github-stats-extended.vercel.app/api?username=Jore-X&custom_title=Meu%20Progresso&show_icons=true&include_all_commits=true&theme=chartreuse-dark)
 
 ###
 
